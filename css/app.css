@@ -6,15 +6,15 @@ h1,h3,p,a,button{
 }
 
 .onepage-bg{
-    height: 800px;
+    height: 560px;
     width: 100%;
-    margin-top: -20px;
+    margin-top: 20px;
     position: absolute;
     background-position: center center;
-    background-size: cover  ;
+    background-size: auto;
 }
 #onepagebg {
-    background-image: url("image/myphoto-1.jpg");
+    background-image: url("../img/banner.png");
 }
 .headh1content{
     margin-top: 150px;
@@ -53,7 +53,7 @@ h1,h3,p,a,button{
 }
 
 #twopagebg{
-    background-image: url("image/myattribute.jpg");
+    background-image: url("../img/myattribute.jpg");
 }
 .twopagecontent{
     width: 100%;
@@ -83,7 +83,7 @@ h1,h3,p,a,button{
     padding: 2px 0 0 2px;
     height: 800px;
     margin-top: 800px;
-    background-image: url("image/bg3.jpg");
+    background-color: #313131;
     position: relative;
 }
 .threepage-text{
@@ -162,7 +162,7 @@ h1,h3,p,a,button{
 }
 
 .fourpage{
-    background-image: url("image/bg4.jpg");
+    background-color: #d3d3d3;
     height: 1000px;
 }
 
